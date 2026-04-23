@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Yadneshwar Thorat!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Yadneshwar%20Thorat&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
 ### 🚀 Full-Stack Developer | AI Enthusiast | Software Engineer Intern @ Terrasun Technologies
 
 I am a passionate **Information Technology** student at **JSPM BSIOTR** with a strong foundation in building scalable web applications, AI-driven platforms, and blockchain solutions. I thrive on solving complex problems and shipping production-ready features.
